@@ -1,2 +1,1 @@
-# nextjs-lesson-006
-NextJS Training. Lesson 6. Setting Up Your Database 
+Learn NextJS. Lesson 006. Setting Up Your Database
